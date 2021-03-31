@@ -32,6 +32,7 @@ fields:
   - simple-footer
   - 4-column-footer
 pages:
+- "./home-dupe_for_learn.md"
 - "./homepage-copy-1.md"
 - "./homepage-copy.md"
 - index.md
