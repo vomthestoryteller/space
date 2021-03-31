@@ -1,7 +1,7 @@
 ---
 layout: blocks
 title: test-index
-date: 
+date: 2021-03-31 15:00:00 +0000
 page_sections:
 - template: hero-banner-w-image
   block: hero-2
