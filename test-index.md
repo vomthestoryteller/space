@@ -7,7 +7,7 @@ page_sections:
   block: hero-2
   background_image: ''
   image:
-    image: "/uploads/2021/03/31/fb_top.png"
+    image: ''
     alt_text: ''
   headline: ''
   content: ''
