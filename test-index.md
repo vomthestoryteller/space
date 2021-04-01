@@ -6,7 +6,13 @@ page_sections:
 - template: navigation-header
   block: header-1
   logo: ''
-  navigation: []
+  navigation:
+  - link: "#"
+    link_text: ABOUT
+  - link: "#"
+    link_text: WORKS
+  - link: "#"
+    link_text: BLOG
 - template: content-feature
   block: feature-1
   media_alignment: Right
