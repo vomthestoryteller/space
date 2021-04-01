@@ -7,11 +7,11 @@ page_sections:
   block: header-1
   logo: "/uploads/2021/03/31/logo.png"
   navigation:
-  - link: "#"
+  - link: ''
     link_text: ABOUT
-  - link: "#"
+  - link: ''
     link_text: WORKS
-  - link: "#"
+  - link: ''
     link_text: BLOG
 - template: content-feature
   block: feature-1
