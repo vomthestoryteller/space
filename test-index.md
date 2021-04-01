@@ -5,7 +5,7 @@ date: 2021-03-31 15:00:00 +0000
 page_sections:
 - template: navigation-header
   block: header-1
-  logo: ''
+  logo: "/uploads/2021/03/31/logo.png"
   navigation:
   - link: "#"
     link_text: ABOUT
