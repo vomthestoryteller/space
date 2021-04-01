@@ -28,6 +28,5 @@ page_sections:
   col_3: Footer 3
   col_4: Footer 4
   image: "/uploads/2021/03/31/logo.png"
-published: false
 
 ---
