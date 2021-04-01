@@ -3,18 +3,10 @@ layout: blocks
 title: test-index
 date: 2021-03-31 15:00:00 +0000
 page_sections:
-- template: hero-banner-w-image
-  block: hero-2
-  background_image: ''
-  image:
-    image: ''
-    alt_text: ''
-  headline: ''
-  content: ''
-  cta:
-    enabled: false
-    url: ''
-    button_text: ''
+- template: navigation-header
+  block: header-1
+  logo: ''
+  navigation: []
 - template: content-feature
   block: feature-1
   media_alignment: Right
@@ -24,6 +16,12 @@ page_sections:
   media:
     image: ''
     alt_text: ''
+- template: 4-column-footer
+  block: footer-2
+  col_2: Footer 2
+  col_3: Footer 3
+  col_4: Footer 4
+  image: "/uploads/2021/03/31/logo.png"
 published: false
 
 ---
